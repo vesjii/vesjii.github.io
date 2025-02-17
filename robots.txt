@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vesjii.csgad.com/rse/sitemap.xml.gz
